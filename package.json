@@ -1,0 +1,11 @@
+{
+  "name": "ts-inferredProject1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brieb/ts-inferredProject1.git",
+  "author": "Brie <723547+brieb@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
