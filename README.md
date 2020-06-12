@@ -14,7 +14,7 @@ Open `projects/proj-03/proj03.ts`.
 
 Observe that the `import { proj02 } from ":proj-02/proj02";` import resolves as expected.
 
-Create new file within `projects/proj-03`, `projects/proj-03/foo.ts` with the following contents:
+Create new file `projects/proj-03/foo.ts` with the following contents:
 
 ```typescript
 import { proj02 } from ":proj-02/proj02";
